@@ -1,7 +1,8 @@
 # Primetheus
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rick-laboratory/Primetheus/main/banner.png" alt="Primetheus Banner"/>
+  <img src="https://raw.githubusercontent.com/Rick-laboratory/Primetheus/main/banner.png" alt="Primetheus Banner" width="800"/>
 </p>
+
 # 🧠 Primetheus – High-Performance Prime Number Sieve
 
 **Primetheus** is a high-performance, memory-efficient, and multithreaded prime counting engine.  
