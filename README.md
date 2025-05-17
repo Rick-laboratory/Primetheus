@@ -1,6 +1,6 @@
 # Primetheus
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rick-laboratory/Primetheus/main/banner.png" alt="Primetheus Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Rick-laboratory/Primetheus/main/banner.png" alt="Primetheus Banner" width="600"/>
 </p>
 
 # 🧠 Primetheus – High-Performance Prime Number Sieve
