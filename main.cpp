@@ -5,8 +5,8 @@
 #include <thread>
 #include <mutex>
 
-constexpr int NUM_THREADS = 32;
-constexpr uint64_t SEGMENT_SIZE = 2500000;
+constexpr int NUM_THREADS = 32; // make this match with your threadcount of your cpu
+constexpr uint64_t SEGMENT_SIZE = 2500000; // make this match with your max L1,2,3 cachesize of your cpu
 
 std::mutex count_mutex;
 uint64_t global_prime_count = 0;
@@ -97,8 +97,8 @@ void sieve_range(uint64_t start, uint64_t end, const std::vector<uint64_t>& base
 }
 
 int main() {
-    const uint64_t MAX = 1000000000000ULL; // Für Tests auf 10^12 beschränkt
-    const uint64_t TRUE_COUNT = 37607912018; // True count für 10^12
+    const uint64_t MAX = 1000000000000ULL; // FÃ¼r Tests auf 10^12 beschrÃ¤nkt
+    const uint64_t TRUE_COUNT = 37607912018; // True count fÃ¼r 10^12
 
     std::vector<uint64_t> segment_sizes = { SEGMENT_SIZE };
 
