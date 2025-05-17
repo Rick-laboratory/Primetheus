@@ -80,7 +80,7 @@ See `LICENSE` for details.
 Built by [Rick Armbruster](https://github.com/Rick-laboratory)
 
 For questions, licensing, or performance consulting:  
-📫 [LinkedIn]([https://www.linkedin.com/in/rick-armbruster](https://www.linkedin.com/in/rick-armbruster-721600223/))
+📫 [LinkedIn](https://www.linkedin.com/in/rick-armbruster-721600223/)
 
 ---
 
