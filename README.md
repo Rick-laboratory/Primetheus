@@ -103,6 +103,13 @@ If you beat the current benchmark, let me know. 😎
 
 ---
 
+⚠️ Disclaimer for Security Enthusiasts
+This tool is not designed to break RSA.
+It’s for mathematical analysis, benchmarking, and compression research.
+
+If your threat model includes "counting to 10^512 to crack encryption",
+please consult a cryptographer or take a nap.
+
 > "Built because the world needed a smarter sieve.  
 
 ## License
